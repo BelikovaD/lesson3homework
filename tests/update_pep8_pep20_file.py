@@ -3,7 +3,7 @@ Text = "Lorem Ipsum - это текст-'рыба', часто использу�
 
 
 def add(a, b):
-    return a +b
+    return a + b
 
 
 def greet(name):
